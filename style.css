@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo|Charmonman|Fredoka+One|Kaushan+Script|Permanent+Marker|Poiret+One');
+
+body {
+background-image: url("https://yese69.com/wp-content/uploads/data/2018/1/5/full-size-gradient-wallpaper-19-WTG3056773.jpg");
+margin: 0px;
+padding: 0px;
+}
+
+header {
+	width: cover;
+	height: 100px;
+	background: transparent url('https://images6.alphacoders.com/546/546559.jpg') no-repeat;
+	display: flex;
+	justify-content: space-between;
+}
+
+td {
+	font-size: 24px;
+	font-family: avenir;
+	font-weight: bold;
+	color: black;
+	background-color: #D18B27;
+	border-radius: 5px;
+	width: 200px; 
+	text-align: center;
+}
+
+.span {
+	background-color: white;
+}
+
+
+.text_header {
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	height: 100px;
+	display: inline;
+	justify-content: flex-end;
+	margin-top: 30px;
+	margin-left: 10px;
+	padding: 0;
+
+}
+
+h1 span {
+	color: #F9A731;
+}
+
+h2 {
+	font-family: 'Fredoka One', cursive;
+}
+
+h2 span {
+	color: #D18B27;
+}
+
+h3 {
+	font-family: avenir;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 12px;
+	text-decoration: underline;
+}
+
+p {
+	font-family: avenir;
+	font-size: 20px;
+	text-align: center;
+	display: block;
+	margin: 20px auto;
+	padding: 20px 0;
+	border: 3px solid blue;
+	border-radius: 30px;
+	width: 80%;
+	background: rgba(255,255,255,0.3);
+}
+
+ul {
+	display: inline;
+	justify-content: flex-end;
+	padding: 0;
+	margin-top: 34px;
+	margin-right: 18px;
+}
+
+li {
+	font-family: avenir;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	list-style: none;
+	display: inline;
+	border-right: 10px;
+}
+
+img {
+	border-radius: 100%;
+	border-color: blue;
+}
+
+img.displayed {
+	width: 300px;
+	height: 300px;
+	margin: 50px auto;
+	border: 5px solid black;
+	display: block;
+	justify-content: center;
+}
+
+.retour {
+	font-family: avenir;
+	font-size: px;
+	display: block;
+	text-align: center;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;	
+}
+
+.paragraph {
+	font-family: avenir;
+	font-size: 80px;
+	margin: auto;
+}
+
+.table {
+	margin: 40px auto;
+	padding: 0px;
+}
+
+
+.menu {
+	display: inline-flex;
+	align-items: center;
+	font-family: avenir;
+}
+
+
+.title {
+	display: flex;
+	justify-content: space-around;
+}
+
+.presentation {
+	background-color: white
+}
+
+.annexe {
+margin-top: 20px;
+}
+
+#titre1 {
+	font-family: 'Fredoka One', cursive;
+	font-size: 50px;
+	color: black;
+	padding: 0;
+	margin: 30px;
+	display: inline;
+	justify-content: space-between;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover, a:active {
+  text-decoration: none;
+  color: #D18B27;
+}
+
+
+
+
+
